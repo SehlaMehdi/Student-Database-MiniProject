@@ -21,10 +21,9 @@ This is a mini project built using **HTML**, **Java (Servlets)**, and **MySQL** 
 4. Run the servlet project
 
 ## 📸 Screenshots
-*Add a screenshot of your form or output page later if you want*
+![1](https://github.com/user-attachments/assets/6f941f1a-97a5-4ccb-ba4b-6fb69d11dd98)
+![2](https://github.com/user-attachments/assets/ae13287c-e5f0-4231-acbb-d3809928dac1)
 
 ## 📌 Notes
 - Solo project for college
 - This project was developed independently, with guidance and debugging support from ChatGPT during the learning process.
-
-

@@ -2,6 +2,14 @@
 
 This is a mini project built using **HTML**, **Java (Servlets)**, and **MySQL** to manage student data such as name, ID, marks, etc.
 
+### 📂 Project Structure
+StudentDatabaseProject/
+│
+├── index.html               # Frontend form
+├── SubmitStudent.java       # Servlet to handle student data
+├── web.xml                  # Deployment descriptor (Web config)
+└── README.md                # Project description and details
+
 ## 🛠️ Technologies Used
 - HTML, CSS for frontend
 - Java Servlets for backend
